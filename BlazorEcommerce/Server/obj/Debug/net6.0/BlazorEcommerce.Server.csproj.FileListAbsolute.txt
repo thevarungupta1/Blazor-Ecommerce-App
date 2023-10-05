@@ -76,7 +76,6 @@ C:\Users\Admin\source\repos\BlazorEcommerce\BlazorEcommerce\Server\bin\Debug\net
 C:\Users\Admin\source\repos\BlazorEcommerce\BlazorEcommerce\Server\bin\Debug\net6.0\BlazorEcommerce.Shared.dll
 C:\Users\Admin\source\repos\BlazorEcommerce\BlazorEcommerce\Server\bin\Debug\net6.0\BlazorEcommerce.Client.pdb
 C:\Users\Admin\source\repos\BlazorEcommerce\BlazorEcommerce\Server\bin\Debug\net6.0\BlazorEcommerce.Shared.pdb
-C:\Users\Admin\source\repos\BlazorEcommerce\BlazorEcommerce\Server\obj\Debug\net6.0\BlazorEcommerce.Server.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Admin\source\repos\BlazorEcommerce\BlazorEcommerce\Server\obj\Debug\net6.0\staticwebassets\msbuild.BlazorEcommerce.Server.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\Admin\source\repos\BlazorEcommerce\BlazorEcommerce\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorEcommerce.Server.props
 C:\Users\Admin\source\repos\BlazorEcommerce\BlazorEcommerce\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorEcommerce.Server.props
