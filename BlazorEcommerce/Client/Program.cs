@@ -1,4 +1,5 @@
 using BlazorEcommerce.Client;
+using BlazorEcommerce.Client.Services.AuthService;
 using BlazorEcommerce.Client.Services.CategoryService;
 using BlazorEcommerce.Client.Services.ProductService;
 using BlazorEcommerce.Client.Services.ProductTypeService;
@@ -14,5 +15,6 @@ builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<ICategoryService, CategoryService>();
 builder.Services.AddScoped<IProductTypeService, ProductTypeService>();
+builder.Services.AddScoped<IAuthService, AuthService>();
 
 await builder.Build().RunAsync();
