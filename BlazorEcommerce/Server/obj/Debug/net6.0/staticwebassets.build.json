@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oF46N5XURfYfcHojlf5V01VsJwNaKgD/2spDfNGDLuI=",
+  "Hash": "hcCqo+0zGLIQSOLl6NWdi/PioTjaLXi/pMcmhuobtBs=",
   "Source": "BlazorEcommerce.Server",
   "BasePath": "_content/BlazorEcommerce.Server",
   "Mode": "Default",
@@ -281,7 +281,24 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Varun Gupta\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.15\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+      "OriginalItemSpec": "C:\\Users\\Varun Gupta\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.23\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "SourceId": "BlazorEcommerce.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Varun Gupta\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\6.0.23\\lib\\net6.0\\Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
@@ -298,7 +315,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Varun Gupta\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.15\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
+      "OriginalItemSpec": "C:\\Users\\Varun Gupta\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.23\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
@@ -366,7 +383,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Varun Gupta\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.15\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "C:\\Users\\Varun Gupta\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.23\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.CSharp.dll",
@@ -570,7 +587,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Varun Gupta\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.3\\lib\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll"
+      "OriginalItemSpec": "C:\\Users\\Varun Gupta\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.4\\lib\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dll",
@@ -3820,6 +3837,23 @@
       "OriginalItemSpec": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BlazorEcommerce.Client.dll"
     },
     {
+      "Identity": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\obj\\Debug\\net6.0\\build-gz\\5OkciMmK.gz",
+      "SourceId": "BlazorEcommerce.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
       "Identity": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\obj\\Debug\\net6.0\\build-gz\\5SdFTbgb.gz",
       "SourceId": "BlazorEcommerce.Client",
       "SourceType": "Project",
@@ -3903,6 +3937,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.XDocument.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\obj\\Debug\\net6.0\\build-gz\\6i85kJep.gz",
+      "SourceId": "BlazorEcommerce.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\obj\\Debug\\net6.0\\build-gz\\6vv8Fp+a.gz",
@@ -4005,6 +4056,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\obj\\Debug\\net6.0\\build-gz\\9x6RSe44.gz",
+      "SourceId": "BlazorEcommerce.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\obj\\Debug\\net6.0\\build-gz\\AeHRXZpP.gz",
@@ -4585,23 +4653,6 @@
       "OriginalItemSpec": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Binder.dll"
     },
     {
-      "Identity": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\obj\\Debug\\net6.0\\build-gz\\fdVFsTeG.gz",
-      "SourceId": "BlazorEcommerce.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
-    },
-    {
       "Identity": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\obj\\Debug\\net6.0\\build-gz\\fl92Z5x2.gz",
       "SourceId": "BlazorEcommerce.Client",
       "SourceType": "Project",
@@ -4702,6 +4753,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Timer.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\obj\\Debug\\net6.0\\build-gz\\GJkictnm.gz",
+      "SourceId": "BlazorEcommerce.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\obj\\Debug\\net6.0\\build-gz\\gOkExOwx.gz",
@@ -4976,23 +5044,6 @@
       "OriginalItemSpec": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Http.dll"
     },
     {
-      "Identity": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\obj\\Debug\\net6.0\\build-gz\\IMkWkoif.gz",
-      "SourceId": "BlazorEcommerce.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
-    },
-    {
       "Identity": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\obj\\Debug\\net6.0\\build-gz\\Iqxm3VrP.gz",
       "SourceId": "BlazorEcommerce.Client",
       "SourceType": "Project",
@@ -5231,23 +5282,6 @@
       "OriginalItemSpec": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Pipes.dll"
     },
     {
-      "Identity": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\obj\\Debug\\net6.0\\build-gz\\kPqT+FB4.gz",
-      "SourceId": "BlazorEcommerce.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
-    },
-    {
       "Identity": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\obj\\Debug\\net6.0\\build-gz\\kRD9uVyR.gz",
       "SourceId": "BlazorEcommerce.Client",
       "SourceType": "Project",
@@ -5365,23 +5399,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.Cng.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\obj\\Debug\\net6.0\\build-gz\\LBllE0Ey.gz",
-      "SourceId": "BlazorEcommerce.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\obj\\Debug\\net6.0\\build-gz\\lcicP3xj.gz",
@@ -6215,6 +6232,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Globalization.Calendars.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\obj\\Debug\\net6.0\\build-gz\\tp6v1nWY.gz",
+      "SourceId": "BlazorEcommerce.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\Varun Gupta\\OneDrive\\Desktop\\New folder\\Blazor-Ecommerce-App\\BlazorEcommerce\\Client\\obj\\Debug\\net6.0\\build-gz\\tqxQvqrB.gz",

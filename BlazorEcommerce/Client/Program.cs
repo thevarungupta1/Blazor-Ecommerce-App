@@ -3,6 +3,7 @@ using BlazorEcommerce.Client.Services.AuthService;
 using BlazorEcommerce.Client.Services.CategoryService;
 using BlazorEcommerce.Client.Services.ProductService;
 using BlazorEcommerce.Client.Services.ProductTypeService;
+using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 
@@ -16,5 +17,10 @@ builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<ICategoryService, CategoryService>();
 builder.Services.AddScoped<IProductTypeService, ProductTypeService>();
 builder.Services.AddScoped<IAuthService, AuthService>();
+
+
+builder.Services.AddOptions();
+builder.Services.AddAuthorizationCore();
+builder.Services.AddScoped<AuthenticationStateProvider, CustomAuthStateProvider>();
 
 await builder.Build().RunAsync();

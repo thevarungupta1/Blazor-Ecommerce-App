@@ -1662,3 +1662,4 @@ C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcom
 C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\GJkictnm.gz
 C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\6i85kJep.gz
 C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\9x6RSe44.gz
+C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\HomeButton.razor.rz.scp.css
