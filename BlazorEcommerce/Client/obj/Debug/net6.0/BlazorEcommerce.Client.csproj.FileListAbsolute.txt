@@ -1663,3 +1663,14 @@ C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcom
 C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\6i85kJep.gz
 C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\9x6RSe44.gz
 C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\HomeButton.razor.rz.scp.css
+C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Net.Http.Headers.dll
+C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Net.Http.Headers.dll.gz
+C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.WebUtilities.dll.gz
+C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcommerce\Client\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcommerce\Client\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\ZnCf07lg.gz
+C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\XhUpzE5V.gz
+C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\ShopLayout.razor.rz.scp.css
+C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\ShopNavMenu.razor.rz.scp.css
+C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\UserButton.razor.rz.scp.css

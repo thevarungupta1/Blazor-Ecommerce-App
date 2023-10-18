@@ -185,3 +185,4 @@ C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcom
 C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcommerce\Server\obj\Debug\net6.0\ref\BlazorEcommerce.Server.dll
 C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcommerce\Server\bin\Debug\net6.0\Blazored.LocalStorage.dll
 C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcommerce\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcommerce\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
