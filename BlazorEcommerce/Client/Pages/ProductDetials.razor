@@ -1,6 +1,6 @@
 ﻿@page "/product/{id:int}"
 @inject IProductService ProductService
-@inject 
+@inject ICartService CartService
 
 @if(product == null)
 {
@@ -82,7 +82,7 @@ else
                 ProductId = productVarient.ProductId,
                 ProductTypeId = productVarient.ProductTypeId
             };
-        await CarTser
+        await CartService.AddToCart(cartItem);
     }
 
 }
