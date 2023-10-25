@@ -1,4 +1,5 @@
 ﻿using BlazorEcommerce.Server.Services.AuthService;
+using BlazorEcommerce.Shared;
 using Blazored.LocalStorage;
 
 namespace BlazorEcommerce.Server.Services.CartService
@@ -46,23 +47,58 @@ namespace BlazorEcommerce.Server.Services.CartService
             return new ServiceResponse<int> { Data = count };
         }
 
-       
-
-
-        public Task<ServiceResponse<bool>> UpdateQuantity(CartItem cartItem)
+        public async Task<ServiceResponse<List<CartProductResponse>>> GetCartProducts(List<CartItem> cartItems)
         {
-            throw new NotImplementedException();
+            var result = new ServiceResponse<List<CartProductResponse>>()
+            {
+                Data = new List<CartProductResponse>()
+            };
+
+            foreach (var item in cartItems)
+            {
+                var product = await _context.Products
+                    .Where(p => p.Id == item.ProductId)
+                    .FirstOrDefaultAsync();
+
+                if (product == null)
+                {
+                    continue;
+                }
+
+                var productVariant = await _context.ProductVariants
+                    .Where(v => v.ProductId == item.ProductId && v.ProductTypeId == item.ProductTypeId)
+                    .Include(v => v.ProductType)
+                    .FirstOrDefaultAsync();
+
+                if(productVariant == null)
+                {
+                    continue;
+                }
+
+                var cartProduct = new CartProductResponse
+                {
+                    ProductId = product.Id,
+                    Title = product.Title,
+                    ImageUrl = product.ImageUrl,
+                    Price = productVariant.Price,
+                    ProductType = productVariant.ProductType.Name,
+                    ProductTypeId = productVariant.ProductTypeId,
+                    Quantity = item.Quantity
+                };
+                result.Data.Add(cartProduct);
+            }
         }
+
+        public async Task<ServiceResponse<List<CartProductResponse>>> GetDbCartProducts(int? userId = null)
+        {
+            
+        }
+
         public Task<ServiceResponse<bool>> RemoveItemFromCart(int productId, int productTypeId)
         {
             throw new NotImplementedException();
         }
 
-
-        public Task<ServiceResponse<List<CartProductResponse>>> GetDbCartProducts(int? userId = null)
-        {
-            throw new NotImplementedException();
-        }
         public async Task<ServiceResponse<List<CartProductResponse>>> StoreCartItems(List<CartItem> cartItems)
         {
             cartItems.ForEach(cartItem => cartItem.UserId = _authService.GetUserId());
@@ -72,12 +108,7 @@ namespace BlazorEcommerce.Server.Services.CartService
             return await GetDbCartProducts();
         }
 
-        Task<ServiceResponse<List<CartItem>>> GetCartItems()
-        {
-            return null;
-        }
-
-        Task<ServiceResponse<List<CartItem>>> ICartService.GetCartItems()
+        public Task<ServiceResponse<bool>> UpdateQuantity(CartItem cartItem)
         {
             throw new NotImplementedException();
         }
