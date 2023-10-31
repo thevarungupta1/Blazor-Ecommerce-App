@@ -36,6 +36,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Varun Gupta/OneDrive/Desktop/New folder/Blazor-Ecommerce-App/BlazorEcommerce/Client/Pages/OrderDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJEZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Varun Gupta/OneDrive/Desktop/New folder/Blazor-Ecommerce-App/BlazorEcommerce/Client/Pages/ProductDetials.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdERldGlhbHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -67,6 +71,10 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/Varun Gupta/OneDrive/Desktop/New folder/Blazor-Ecommerce-App/BlazorEcommerce/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Varun Gupta/OneDrive/Desktop/New folder/Blazor-Ecommerce-App/BlazorEcommerce/Client/Pages/Orders.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-jl4wtx5dv4
 
 [C:/Users/Varun Gupta/OneDrive/Desktop/New folder/Blazor-Ecommerce-App/BlazorEcommerce/Client/Shared/HomeButton.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEhvbWVCdXR0b24ucmF6b3I=

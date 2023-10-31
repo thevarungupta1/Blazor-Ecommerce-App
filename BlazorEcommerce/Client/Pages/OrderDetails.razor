@@ -1,0 +1,19 @@
+﻿@page "/orders/{orderId:int}"
+@inject IOrderService OrderService
+
+
+
+@code {
+
+    [Parameter]
+    public int OrderId { get; set; }
+
+    Order order = null;
+
+    protected override async Task OnInitializedAsync()
+    {
+        order = await OrderService.GetOrders();
+    }
+
+
+}
