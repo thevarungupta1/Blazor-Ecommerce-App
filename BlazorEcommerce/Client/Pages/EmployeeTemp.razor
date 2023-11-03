@@ -1,0 +1,13 @@
+﻿@page "/employeetemp"
+<h3>EmployeeTemp</h3>
+
+<h1>Id: @Id</h1>
+<h1>Name: @FirstName</h1>
+
+@code {
+    [Parameter]
+    public int? Id { get; set; }
+
+    [Parameter]
+    public string? FirstName { get; set; }
+}

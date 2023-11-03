@@ -1,0 +1,59 @@
+﻿@page "/employee"
+@inject NavigationManager NavigationManager
+@inject MyStateContainer MyStateContainer
+@using Microsoft.AspNetCore.WebUtilities
+@implements IDisposable
+
+
+<h3>Employee</h3>
+<button @onclick="() => OnButtonClick()">Send</button>
+
+<button @onclick="() => OnDisplayButtonClicked()">Display Employee</button>
+
+<hr />
+
+<EmployeeTemp id="@employee.Id" FirstName="@employee.FirstName" />
+
+
+@code {
+    private int Id = 123;
+    private string FirstName = "John";
+    private Employee employee = new Employee
+        {
+            Id = 101,
+            FirstName = "Mark",
+            LastName = "Watson"
+        };
+
+    protected override void OnInitialized()
+    {
+        MyStateContainer.OnStateChange += StateHasChanged;
+    }
+
+    private void OnButtonClick()
+    {
+        //NavigationManager.NavigateTo($"/updateemployee/{Id}/{FirstName}");
+
+        var queryStrDict = new Dictionary<string, string>
+            {
+                ["id"] = "100",
+                ["FirstName"] = "John",
+                ["LastName"] = "Smith"
+            };
+
+        NavigationManager.NavigateTo(
+           QueryHelpers.AddQueryString("/displayemployee", queryStrDict)
+        );
+    }
+
+    private void OnDisplayButtonClicked()
+    {
+        MyStateContainer.setValue(employee);
+        NavigationManager.NavigateTo("/displayemployee");
+    }
+
+    public void Dispose()
+    {
+        MyStateContainer.OnStateChange -= StateHasChanged;
+    }
+}

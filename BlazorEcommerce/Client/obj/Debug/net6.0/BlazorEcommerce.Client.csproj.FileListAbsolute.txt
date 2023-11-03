@@ -1674,3 +1674,4 @@ C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcom
 C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\ShopLayout.razor.rz.scp.css
 C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\ShopNavMenu.razor.rz.scp.css
 C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\UserButton.razor.rz.scp.css
+C:\Users\Varun Gupta\OneDrive\Desktop\New folder\Blazor-Ecommerce-App\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Pages\Orders.razor.rz.scp.css

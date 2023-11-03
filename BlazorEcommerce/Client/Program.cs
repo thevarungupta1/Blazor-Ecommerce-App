@@ -5,6 +5,7 @@ using BlazorEcommerce.Client.Services.CategoryService;
 using BlazorEcommerce.Client.Services.OrderService;
 using BlazorEcommerce.Client.Services.ProductService;
 using BlazorEcommerce.Client.Services.ProductTypeService;
+using BlazorEcommerce.Shared;
 using Blazored.LocalStorage;
 using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.AspNetCore.Components.Web;
@@ -24,6 +25,7 @@ builder.Services.AddScoped<IProductTypeService, ProductTypeService>();
 builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<ICartService, CartService>();
 builder.Services.AddScoped<IOrderService, OrderService>();
+builder.Services.AddSingleton<MyStateContainer>();
 
 
 builder.Services.AddOptions();
